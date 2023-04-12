@@ -1,0 +1,12 @@
+{
+  "name": "fowp/monetize",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Nils Langner",
+      "email": "nils.langner@startwind.io"
+    }
+  ]
+}
