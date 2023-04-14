@@ -4,4 +4,4 @@ This WordPress plugin extension helps to create premium plugins. The goal is to 
 
 ![Screenshot of premium banner](docs/images/premium-label.png)
 
-There will be an additional platform that supports sales and simplifies subscriptions and one-time sales. This platform will be und a proprietary license.
+There will be an additional platform that supports sales and simplifies subscriptions and one-time sales. This platform will be under a proprietary license.
