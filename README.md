@@ -1,4 +1,4 @@
-# Friend of WP - Monetize
+# Friends of WP - Monetize
 
 This WordPress plugin extension helps to create premium plugins. The goal is to establish a simple and standardized solution that makes it possible to create premium versions, host them and sell them. This extension will most likely be open source.
 
